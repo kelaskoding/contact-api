@@ -1,0 +1,35 @@
+[
+    {
+        "name": "bcosca/fatfree",
+        "version": "3.6.2",
+        "version_normalized": "3.6.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/bcosca/fatfree.git",
+            "reference": "e9aec879272c7474294c51c6c00802615afa32a6"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/bcosca/fatfree/zipball/e9aec879272c7474294c51c6c00802615afa32a6",
+            "reference": "e9aec879272c7474294c51c6c00802615afa32a6",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.6"
+        },
+        "time": "2017-06-26T10:14:59+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "lib/base.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0"
+        ],
+        "description": "A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust Web applications - fast!",
+        "homepage": "http://fatfreeframework.com/"
+    }
+]
